@@ -19,6 +19,7 @@ import calendar
 import numpy as np
 import plotly.colors
 
+st.write("✅ App avviata")
 ####### Impaginazione
 
 st.set_page_config(layout="wide")
